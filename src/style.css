@@ -1,1 +1,13 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+body {
+  background-color: green;
+}
+strong {
+  font-size: 80px;
+}
+h1 {
+  font-size: 150px;
+}
+.rotation {
+  transform: rotate(180deg);
+}
